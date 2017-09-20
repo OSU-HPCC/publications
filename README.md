@@ -1,2 +1,2 @@
 # publication
-List of publications which use HPCC
+List of publications which use OSU HPCC. Provides version control.
