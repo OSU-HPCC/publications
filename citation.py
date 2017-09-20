@@ -19,10 +19,10 @@ class Citation(object):
     state = ""          # State where presentation was given
 
     # Constructor
-    def __init__(self, authors, year, title, journal, \\
-            volume, issue, start_page, end_page, doi, \\
-            category, universities, arxiv, meeting, \\
-            city, state):
+    def __init__(self, authors = "", year = "", title = "", journal = "", \
+            volume = "", issue = "", start_page = "", end_page = "", doi = "", \
+            category = "", universities = "", arxiv = "", meeting = "", \
+            city = "", state = ""):
         self.authors = authors
         self.year = year
         self.title = title
@@ -42,21 +42,23 @@ class Citation(object):
     # Returns the correct citation in markdown format
     def cite(self):
         # Journal articles
-        if category == "article":
-            cite_text = [ article, " (" + year + "). ", title + ". ", "*", journal ]
-            if (volume == "") and (issue == "") and (start_page == "") and (end_page == ""):
+        if self.category == "article":
+            cite_text = [ self.authors, " (" + self.year + "). ", self.title + ". ", "*", self.journal ]
+            if (self.volume == "") and (self.issue == "") and (self.start_page == "") and (self.end_page == ""):
                 cite_text = "*."
             else:
-                if volume != "":
-                    cite_text.append(", " + volume + "*")
+                if self.volume != "":
+                    cite_text.append(", " + self.volume + "*")
                 else:
                     cite_text.append("*, ")
-                if issue != "":
-                    cite_text.append("(" + issue + ")")
-                if start_page != "":
-                    cite_text.append(", " + start_page)
-                if end_page != "":
-                    cite_text.append("-" + end_page)
+                if self.issue != "":
+                    cite_text.append("(" + self.issue + ")")
+                if self.start_page != "":
+                    cite_text.append(", " + self.start_page)
+                if self.end_page != "":
+                    cite_text.append("-" + self.end_page)
+                if self.doi != "":
+                    cite_text.append(". DOI: [" + self.doi + "](https://doi.org/" + self.doi + ")")
                 cite_text.append(".")
                 cite_text = "".join(cite_text)
 
