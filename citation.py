@@ -50,7 +50,7 @@ class Citation(object):
                     self.title + ". ", "*", self.journal ]
             if (self.volume == "") and (self.issue == "") and \
                     (self.start_page == "") and (self.end_page == ""):
-                cite_text.append("*.")
+                cite_text.append("*")
             else:
                 if self.volume != "":
                     cite_text.append(", " + self.volume + "*")
@@ -65,8 +65,6 @@ class Citation(object):
                 if self.doi != "":
                     cite_text.append(". DOI: [" + self.doi + \
                             "](https://doi.org/" + self.doi + ")")
-                cite_text.append(".")
-                cite_text = "".join(cite_text)
         # NEUP Project
         if self.category == "neupProject":
             cite_text = [ self.authors, " (" + self.year + "). ", \
@@ -74,15 +72,13 @@ class Citation(object):
             if self.doi != "":
                 cite_text.append(". DOI: [" + self.doi + \
                         "](https://doi.org/" + self.doi + ")")
-            cite_text.append(".")
-            cite_text = "".join(cite_text)
         # Presentation
         if self.category == "presentation":
             cite_text = [ self.authors, " (" + self.year + ", ", self.month + "). ", \
                     "*" + self.title + "* ", self.meeting + ", ", self.city + ", ", \
                     self.state ]
-            cite_text.append(".")
-            cite_text = "".join(cite_text)
+        cite_text.append(".")
+        cite_text = "".join(cite_text)
 
         return cite_text
 
