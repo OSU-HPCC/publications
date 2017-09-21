@@ -48,7 +48,7 @@ def main():
     # Final Formatted list
     final_list = []
     for year in years:
-        final_list.append("\n\n#" + year)
+        final_list.append("\n\n #" + year)
         # Articles
         if thatYearsPubs(year, articles):
             final_list.append("\n\n## Articles")
