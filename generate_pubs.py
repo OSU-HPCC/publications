@@ -25,6 +25,11 @@ articles = citation.getPubs(article_csv, "article")
 neups = citation.getPubs(neup_csv, "neup_proj")
 presentations = citation.getPubs(presentations_csv, "presentation")
 
-print(articles[0].cite())
-print(neups[0].cite())
-print(presentations[0].cite())
+# Make sure publication are in alphabetical order
+articles.sort(key = lambda x: x.authors)
+neups.sort(key = lambda x: x.authors)
+presentations.sort(key = lambda x: x.authors)
+
+# Get all years with publications
+for pub in articles:
+
