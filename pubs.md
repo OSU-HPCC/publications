@@ -1,6 +1,6 @@
 
 
-#2017
+ #2017
 
 ## Articles
  + Alderman, P. D., & Stanfill, B. (2017). Quantifying model-structure-and parameter-driven uncertainties in spring wheat phenology prediction with Bayesian analysis. *European Journal of Agronomy, 88*, 1-9. DOI: [10.1016/j.eja.2016.09.016](https://doi.org/10.1016/j.eja.2016.09.016).
@@ -22,7 +22,7 @@
  + Shah, J. K., Marin‐Rimoldi, E., Mullen, R. G., Keene, B. P., Khan, S., Paluch, A. S., ... & Maginn, E. J. (2017). Cassandra: An open source Monte Carlo package for molecular simulation. *Journal of Computational Chemistry., 38*(19), 1727-1739. DOI: [10.1002/jcc.24807](https://doi.org/10.1002/jcc.24807).
  + Wang, B., Yi, H., Xu, K., & Wang, Q. (2017). Prediction of the self-accelerating decomposition temperature of organic peroxides using QSPR models. *Journal of Thermal Analysis and Calorimetry, 128*(1), 399-406. DOI: [10.1007/s10973-016-5922-8](https://doi.org/10.1007/s10973-016-5922-8).
 
-#2016
+ #2016
 
 ## Articles
  + Babu, K. S., Bajc, B., & Saad, S. (2016). New class of SO (10) models for flavor. *Physical Review D, 94*(1), 15030. DOI: [10.1103/PhysRevD.94.015030](https://doi.org/10.1103/PhysRevD.94.015030).
@@ -55,7 +55,7 @@
  + Andreason, S., Schneider, W., Wayadande, A. (2016, February). *Detection of plant pathogens within insect vector transcriptome sequencing datasets.* Presented at the 2016 annual meeting of the Entomological Society of America Southwestern Branch, Tyler, TX.
  + Liang, Y. (2016, June). *Bayesian nonparametric inference for panel count data with dependent observation times.* Presented at the 2016 ICSA Applied Statistics Symposium, Atlanta, GA.
 
-#2015
+ #2015
 
 ## Articles
  + Al-Rubaye, A. A., Couger, M. B., Ojha, S., Pummill, J. F., Koon II, J. A., Wideman Jr, R. F., & Rhoads, D. D. (2015). Genome analysis of Staphylococcus agnetis, an agent of lameness in broiler chickens. *PLoS ONE, 10*(11), e0143336. DOI: [10.1371/journal.pone.0143336](https://doi.org/10.1371/journal.pone.0143336).
@@ -93,7 +93,7 @@
  + Miao, Z. (2015, November). *On the Lagrangian dual of the maximum quasiclique problem.* Presented at the 2015 INFORMS Annual Meeting, Philadelphia, PA.
  + Vemula, S., & Crick, C. (2015, June). *Hadoop Image Processing Framework.* Presented at the 4th IEEE International Congress on Big Data, New York, NY.
 
-#2014
+ #2014
 
 ## Articles
  + Alam, M. M., Vilankar, K. P., Field, D. J., & Chandler, D. M. (2014). Local masking in natural images: A database and analysis. *Journal of Vision, 14*(8), 22-22. DOI: [10.1167/14.8.22](https://doi.org/10.1167/14.8.22).
@@ -124,7 +124,7 @@
  + Miao, Z. (2014, November). *A global optimization approach for the maximum quasi-clique problem.* Presented at the 2014 INFORMS Annual Meeting, San Francisco, CA.
  + Moradi, E. (2014, November). *Finding a maximum k-club using the k-clique formation and lazy cuts.* Presented at the 2014 INFORMS Annual Meeting, San Franciso, CA.
 
-#2013
+ #2013
 
 ## Articles
  + Coyner, B. S., Braun, J. K., Mares, M. A., & Bussche, R. A. (2013). Taxonomic validity of species groups in the genus Akodon (Rodentia, Cricetidae). *Zoologica Scripta, 42*(4), 335-350. DOI: [10.1111/zsc.12014](https://doi.org/10.1111/zsc.12014).
@@ -150,7 +150,7 @@
 ## Presentations
  + Ma, J., & Balasundaram, B. (2013, May). *Solving chance-constrained spanning k-core problem via decomposition and integer programming.* Presented at the 2013 Industrial and Systems Engineering Research Conference, San Juan, Puerto Rico.
 
-#2012
+ #2012
 
 ## Articles
  + Cheng, C., Bukkapatnam, S. T., Raff, L. M., & Komanduri, R. (2012). Towards control of carbon nanotube synthesis process using prediction-based fast Monte Carlo simulations. *Journal of Manufacturing Systems, 31*(4), 438-443. DOI: [10.1016/j.jmsy.2012.06.006](https://doi.org/10.1016/j.jmsy.2012.06.006).
@@ -178,7 +178,7 @@
  + Fernando, B.R., Hermansky, S., Kim, H., Bible, M.R., Carter, S.D., & DeSilva, U. (2012, January). *Impact of diet on swine fecal microbiome.* Presented at the International Conference on the Status of Plant and Animal Genome Research, San Diego, CA.
  + Schneider, W.L., Stobbe, A.H., Daniels, J., Espindola, A.S., Verma, R., & Blagden, T., Fletcher, J., Ochoa Corona, F., Garzon, C., Hoyt, P. (2012, August). *Next-generation diagnostics: Eliminating the excessive sequence processing associated with next-generation sequencing using EDNA.* Presented at the 2012 Annual Meeting of the American Phytopathological Society, Providence, RI.
 
-#2011
+ #2011
 
 ## Articles
  + Allred, B. W., Fuhlendorf, S. D., & Hamilton, R. G. (2011). The role of herbivores in Great Plains conservation: comparative ecology of bison and cattle. *Ecosphere, 2*(3), 1-17. DOI: [10.1890/ES10-00152.1](https://doi.org/10.1890/ES10-00152.1).
@@ -197,20 +197,20 @@
  + Ku. H., & Zhu, L. (2011, August). *Bayesian Regression Analysis of Quantitative Trait with Correlated Phenotypic Data.* Presented at the 2011 Joint Statistical Meetings, Miami Beach, FL.
  + Zhu, L., Feng, F., & Bustamante, C. (2011, July). *A Regression-based Approach for Estimating Recombination Rate from Population Genomic Data.* Presented at the 2011 International conference on Bioinformatics & Computational Biology, Las Vegas, NV.
 
-#2010
+ #2010
 
 ## Articles
  + Bukkapatnam, S. T., & Cheng, C. (2010). Forecasting the evolution of nonlinear and nonstationary systems using recurrence-based local Gaussian process models. *Physical Review E, 82*(5), 56206. DOI: [10.1103/PhysRevE.82.056206](https://doi.org/10.1103/PhysRevE.82.056206).
  + Liggenstoffer, A. S., Youssef, N. H., Couger, M. B., Elshahed, M.S. (2010). Phylogenetic diversity and community structure of anaerobic fungi (Phylum Neacallymastigales) in ruminant and non-ruminant herbivores. *ISME Journal, 4*(10), 1225-1235.
  + Youssef, N. H., Couger, M. B., & Elshahed, M. S. (2010). Fine-scale bacterial beta diversity within a complex ecosystem (Zodletone Spring, OK, USA): the role of the rare biosphere. *PLoS ONE, 5*(8), e12414. DOI: [10.1371/journal.pone.0012414](https://doi.org/10.1371/journal.pone.0012414).
 
-#2009
+ #2009
 
 ## Articles
  + Harris, A. J., & XIANG, Q. Y. J. (2009). Estimating ancestral distributions of lineages with uncertain sister groups: a statistical approach to Dispersal–Vicariance Analysis and a case using Aesculus L.(Sapindaceae) including fossils. *Journal of Systematics and Evolution, 47*(5), 349-368. DOI: [10.1111/j.1759-6831.2009.00044.x](https://doi.org/10.1111/j.1759-6831.2009.00044.x).
  + Zhang, W., & Guo, Y. (2009). First-principles study of crystal structures of under pressure. *Solid State Communications, 149*(33), 1342-1346. DOI: [10.1016/j.ssc.2009.05.027](https://doi.org/10.1016/j.ssc.2009.05.027).
 
-#2008
+ #2008
 
 ## Presentations
  + Andreason, S., Schneider, W., Davis, R., & Wayadande, A. (2008, November). *E-probe diagnostic nucleic acid assay (EDNA) detection of Spiroplasma kunkelli in gray lawn leafhopper, Exitianus exitiosu, (Uhl.), transcriptome sequencing dataset.* Presented at the 2008 annual meeting of the Entomological Society of America, Minneapolis, MN.
