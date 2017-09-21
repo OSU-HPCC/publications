@@ -50,7 +50,7 @@ class Citation(object):
                     self.title + ". ", "*", self.journal ]
             if (self.volume == "") and (self.issue == "") and \
                     (self.start_page == "") and (self.end_page == ""):
-                cite_text = "*."
+                cite_text.append("*.")
             else:
                 if self.volume != "":
                     cite_text.append(", " + self.volume + "*")
