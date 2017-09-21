@@ -2,7 +2,7 @@
 
 #2017
 
-##Articles
+## Articles
  + Alderman, P. D., & Stanfill, B. (2017). Quantifying model-structure-and parameter-driven uncertainties in spring wheat phenology prediction with Bayesian analysis. *European Journal of Agronomy, 88*, 1-9. DOI: [10.1016/j.eja.2016.09.016](https://doi.org/10.1016/j.eja.2016.09.016).
  + Ayalew, S., Confer, A. W., Hansen, R. D., & Couger, M. B. (2017). Genome Sequence of Mannheimia haemolytica Serotype 1 Strain 16041065 BH. *Genome Announcements, 5*(14), e01721-16. DOI: [10.1128/genomeA.01721-16](https://doi.org/10.1128/genomeA.01721-16).
  + Ayalew, S., Confer, A. W., Hansen, R. D., & Couger, M. B. (2017). Genome Sequence of a Spontaneous Nonhemolytic Mutant of Mannheimia haemolytica 16041065 GH. *Genome Announcements, 5*(14), e01720-16. DOI: [10.1128/genomeA.01720-16](https://doi.org/10.1128/genomeA.01720-16).
@@ -24,7 +24,7 @@
 
 #2016
 
-##Articles
+## Articles
  + Babu, K. S., Bajc, B., & Saad, S. (2016). New class of SO (10) models for flavor. *Physical Review D, 94*(1), 15030. DOI: [10.1103/PhysRevD.94.015030](https://doi.org/10.1103/PhysRevD.94.015030).
  + Blagden, T., Schneider, W., Melcher, U., Daniels, J., & Fletcher, J. (2016). Adaptation and Validation of E-Probe Diagnostic Nucleic Acid Analysis for Detection of Escherichia coli O157: H7 in Metagenomic Data from Complex Food Matrices. *Journal of Food Protection, 79*(4), 574-581. DOI: [10.4315/0362-028X.JFP-15-440](https://doi.org/10.4315/0362-028X.JFP-15-440).
  + Brini, E., Paranahewage, S. S., Fennell, C. J., & Dill, K. A. (2016). Adapting the semi-explicit assembly solvation model for estimating water-cyclohexane partitioning with the SAMPL5 molecules. *Journal of Computer-Aided Molecular Design, 30*(11), 1067-1077. DOI: [10.1007/s10822-016-9961-9.](https://doi.org/10.1007/s10822-016-9961-9.).
@@ -51,13 +51,13 @@
  + Selvaraju, S., Adhikari, S., Hopson, R. A., Dai, S., Rheingold, A. L., Borunda, M. F., & Nelson, T. L. (2016). Effects of structural variations on the optical and electronic properties of eumelanin-inspired small molecules. *Journal of Materials Chemistry C, 4*(18), 3995-3999. DOI: [10.1039/C5TC03982G](https://doi.org/10.1039/C5TC03982G).
  + Singh, A., Fennell, C. J., & Weaver, J. D. (2016). Photocatalyst size controls electron and energy transfer: selectable E/Z isomer synthesis via C–F alkenylation. *Chemical Science, 7*(11), 6796-6802. DOI: [10.1039/C6SC02422J](https://doi.org/10.1039/C6SC02422J).
 
-##Presentations
+## Presentations
  + Andreason, S., Schneider, W., Wayadande, A. (2016, February). *Detection of plant pathogens within insect vector transcriptome sequencing datasets.* Presented at the 2016 annual meeting of the Entomological Society of America Southwestern Branch, Tyler, TX.
  + Liang, Y. (2016, June). *Bayesian nonparametric inference for panel count data with dependent observation times.* Presented at the 2016 ICSA Applied Statistics Symposium, Atlanta, GA.
 
 #2015
 
-##Articles
+## Articles
  + Al-Rubaye, A. A., Couger, M. B., Ojha, S., Pummill, J. F., Koon II, J. A., Wideman Jr, R. F., & Rhoads, D. D. (2015). Genome analysis of Staphylococcus agnetis, an agent of lameness in broiler chickens. *PLoS ONE, 10*(11), e0143336. DOI: [10.1371/journal.pone.0143336](https://doi.org/10.1371/journal.pone.0143336).
  + Cao, X., & Jiang, H. (2015). Integrated modeling of protein-coding genes in the Manduca sexta genome using RNA-Seq data from the biochemical model insect. *Insect Biochemistry and Molecular Biology, 62*, 2-10. DOI: [10.1016/j.ibmb.2015.01.007](https://doi.org/10.1016/j.ibmb.2015.01.007).
  + Cao, X., He, Y., Hu, Y., Wang, Y., Chen, Y. R., Bryant, B., ... & Jiang, H. (2015). The immune signaling pathways of Manduca sexta. *Insect Biochemistry and Molecular Biology, 62*, 64-74. DOI: [10.1016/j.ibmb.2015.03.006](https://doi.org/10.1016/j.ibmb.2015.03.006).
@@ -85,7 +85,7 @@
  + Zhang, X., He, Y., Cao, X., Gunaratna, R. T., Chen, Y. R., Blissard, G., ... & Jiang, H. (2015). Phylogenetic analysis and expression profiling of the pattern recognition receptors: Insights into molecular recognition of invading pathogens in Manduca sexta. *Insect Biochemistry and Molecular Biology, 62*, 38-50. DOI: [10.1016/j.ibmb.2015.02.001](https://doi.org/10.1016/j.ibmb.2015.02.001).
  + Zhang, X., Zheng, Y., Cao, X., Ren, R., Yu, X. Q., & Jiang, H. (2015). Identification and profiling of Manduca sexta microRNAs and their possible roles in regulating specific transcripts in fat body, hemocytes, and midgut. *Insect Biochemistry and Molecular Biology, 62*, 11-22. DOI: [10.1016/j.ibmb.2014.08.006](https://doi.org/10.1016/j.ibmb.2014.08.006).
 
-##Presentations
+## Presentations
  + Balasundaram, B. (2015, September). *Cliques & Clubs.* Presented at a seminar series for the Department of Industrial and Systems Engineering at Texas A&M University, College Station, TX.
  + Balasundaram, B. (2015, July). *On the 2-club polytope of graphs.* Presented at the 22nd International Symposium on Mathematical Programming, Pittsburgh, PA.
  + Buchanan, J.W., Koltes, J.E., Reecy, J.M., & Mateescu, R.G. (2015, January). *Deriving gene networks involving tenderness and sensory attributes in steaks from Angus beef cattle.* Presented at the 23rd International Plant and Animal Genome Conference, San Diego, CA.
@@ -95,7 +95,7 @@
 
 #2014
 
-##Articles
+## Articles
  + Alam, M. M., Vilankar, K. P., Field, D. J., & Chandler, D. M. (2014). Local masking in natural images: A database and analysis. *Journal of Vision, 14*(8), 22-22. DOI: [10.1167/14.8.22](https://doi.org/10.1167/14.8.22).
  + Brian Couger, M., Pipes, L., Squina, F., Prade, R., Siepel, A., Palermo, R., ... & Blood, P. D. (2014). Enabling large‐scale next‐generation sequence assembly with Blacklight. *Concurrency and Computation: Practice and Experience, 26*(13), 2157-2166. DOI: [10.1002/cpe.3231](https://doi.org/10.1002/cpe.3231).
  + Durica, D. S., Das, S., Najar, F., Roe, B., Phillips, B., Kappalli, S., & Anilkumar, G. (2014). Alternative splicing in the fiddler crab cognate ecdysteroid receptor: Variation in receptor isoform expression and DNA binding properties in response to hormone. *General and Comparative Endocrinology, 206*, 80-95. DOI: [10.1016/j.ygcen.2014.05.034](https://doi.org/10.1016/j.ygcen.2014.05.034).
@@ -114,10 +114,10 @@
  + Ternes, C. M., & Schönknecht, G. (2014). Gene transfers shaped the evolution of de novo NAD+ biosynthesis in eukaryotes. *Genome Biology and Evolution, 6*(9), 2335-2349. DOI: [10.1093/gbe/evu185](https://doi.org/10.1093/gbe/evu185).
  + Weirick, T., Sahu, S. S., Mahalingam, R., & Kaundal, R. (2014). LacSubPred: predicting subtypes of Laccases, an important lignin metabolism-related enzyme class, using in silico approaches. *BMC Bioinformatics, 15*(11), S15. DOI: [10.1186/1471-2105-15-S11-S15](https://doi.org/10.1186/1471-2105-15-S11-S15).
 
-##NEUP Projects
+## NEUP Projects
  + Lu, H., Bukkapatnam, S., Harimkar, S., Singh, R., & Bardenhagen, S. (2014). *Simulations of Failure via Three-Dimensional Cracking in Fuel Cladding for Advanced Nuclear Fuels (No. DOE/NEUP--09-818)*. Univ. of Texas, Dallas, TX (United States); Bardenhagen Consulting (United States); Oklahoma State Univ., OK (United States); Univ. of Tennessee, Knoxville (United States). DOI: [10.2172/1116513](https://doi.org/10.2172/1116513).
 
-##Presentations
+## Presentations
  + Buchanan, J.W., Koltes, J.E., Reecy, J.M., & Mateescu, R.G. (2014, January). *Deriving gene networks underlying fatty acid composition of the triacylglycerol lipid fraction in Angus longissimus muscle.* Presented at the International Plant and Animal Genome Conference, San Diego, CA.
  + Khan, M.N.A., Fan, G., Heisterkamp, D.R., & Yu, L. (2014, June). *Automatic Target Recognition in Infrared Imagery Using Dense HOG Features and Relevance Grouping of Vocabulary.* Presented at the 2014 IEEE Workshop on Perception Beyond Visible Spectrum (in conjunction with CVPR 2014), Columbus, OH.
  + Ma, J. (2014, November). *The minimum spanning k-core problem with bounded CVaR under probabilistic edge failures.* Presented at the 2014 INFORMS Annual Meeting, San Francisco, CA.
@@ -126,7 +126,7 @@
 
 #2013
 
-##Articles
+## Articles
  + Coyner, B. S., Braun, J. K., Mares, M. A., & Bussche, R. A. (2013). Taxonomic validity of species groups in the genus Akodon (Rodentia, Cricetidae). *Zoologica Scripta, 42*(4), 335-350. DOI: [10.1111/zsc.12014](https://doi.org/10.1111/zsc.12014).
  + Das, S., & Durica, D. S. (2013). Ecdysteroid receptor signaling disruption obstructs blastemal cell proliferation during limb regeneration in the fiddler crab, Uca pugilator. *Molecular and Cellular Endocrinology, 365*(2), 249-259. DOI: [10.1016/j.mce.2012.10.026](https://doi.org/10.1016/j.mce.2012.10.026).
  + Davis, M., & Clarke, S. (2013). Influence of microRNA on the maintenance of human iron metabolism. *Nutrients, 5*(7), 2611-2628. DOI: [10.3390/nu5072611](https://doi.org/10.3390/nu5072611).
@@ -147,12 +147,12 @@
  + Wasala, L., Talley, J. L., DeSilva, U., Fletcher, J., & Wayadande, A. (2013). Transfer of Escherichia coli O157: H7 to spinach by house flies, Musca domestica (Diptera: Muscidae). *Phytopathology, 103*(4), 373-380. DOI: [10.1094/PHYTO-09-12-0217-FI](https://doi.org/10.1094/PHYTO-09-12-0217-FI).
  + Youssef, N. H., Couger, M. B., Struchtemeyer, C. G., Liggenstoffer, A. S., Prade, R. A., Najar, F. Z., ... & Elshahed, M. S. (2013). The genome of the anaerobic fungus Orpinomyces sp. strain C1A reveals the unique evolutionary history of a remarkable plant biomass degrader. *Applied and Environmental Microbiology, 79*(15), 4620-4634. DOI: [10.1128/AEM.00821-13](https://doi.org/10.1128/AEM.00821-13).
 
-##Presentations
+## Presentations
  + Ma, J., & Balasundaram, B. (2013, May). *Solving chance-constrained spanning k-core problem via decomposition and integer programming.* Presented at the 2013 Industrial and Systems Engineering Research Conference, San Juan, Puerto Rico.
 
 #2012
 
-##Articles
+## Articles
  + Cheng, C., Bukkapatnam, S. T., Raff, L. M., & Komanduri, R. (2012). Towards control of carbon nanotube synthesis process using prediction-based fast Monte Carlo simulations. *Journal of Manufacturing Systems, 31*(4), 438-443. DOI: [10.1016/j.jmsy.2012.06.006](https://doi.org/10.1016/j.jmsy.2012.06.006).
  + Cheng, C., Bukkapatnam, S. T., Raff, L. M., Hagan, M., & Komanduri, R. (2012). Monte Carlo simulation of carbon nanotube nucleation and growth using nonlinear dynamic predictions. *Chemical Physics Letters, 530*, 81-85. DOI: [10.1016/j.cplett.2012.01.067](https://doi.org/10.1016/j.cplett.2012.01.067).
  + Constantin, P., Lai, M. C., Sharma, R., Tseng, Y. H., & Wu, J. (2012). New numerical results for the surface quasi-geostrophic equation. *Journal of Scientific Computing, 50*(1), 1-28. DOI: [10.1007/s10915-011-9471-9](https://doi.org/10.1007/s10915-011-9471-9).
@@ -172,7 +172,7 @@
  + Youssef, N. H., Ashlock-Savage, K. N., & Elshahed, M. S. (2012). Phylogenetic diversities and community structure of members of the extremely halophilic Archaea (order Halobacteriales) in multiple saline sediment habitats. *Applied and Environmental Microbiology, 78*(5), 1332-1344. DOI: [10.1128/AEM.07420-11](https://doi.org/10.1128/AEM.07420-11).
  + Zhu, L., Chen, S., Jiang, Z., Zhang, Z., Ku, H. C., Li, X., ... & Todhunter, R. (2012). Identification of quantitative trait loci for canine hip dysplasia by two sequential multipoint linkage analyses. *Journal of Applied Statistics, 39*(8), 1719-1731. DOI: [10.1080/02664763.2012.673121](https://doi.org/10.1080/02664763.2012.673121).
 
-##Presentations
+## Presentations
  + Cheng, C., Bukkapatnam, S.T.S., Raff, L.M., & Komanduri, R. (2012, May). *Novel Nanoinformatics methods for scaling up atomistic-scale simulation of carbon nanotube synthesis.* Presented at the 2012 Industrial and Systems Engineering Research Conference, Orlando, FL.
  + Espindola, A.S., Garzon, C.D., Fletcher, J., & Schneider, W.L. (2012, August). *Validation of EDNA, a newly developed bioinformatics tool, for the detection of Pythium ultimum from metagenomic samples.* Presented at the 2012 Annual Meeting of the American Phytopathological Society, Providence, RI.
  + Fernando, B.R., Hermansky, S., Kim, H., Bible, M.R., Carter, S.D., & DeSilva, U. (2012, January). *Impact of diet on swine fecal microbiome.* Presented at the International Conference on the Status of Plant and Animal Genome Research, San Diego, CA.
@@ -180,7 +180,7 @@
 
 #2011
 
-##Articles
+## Articles
  + Allred, B. W., Fuhlendorf, S. D., & Hamilton, R. G. (2011). The role of herbivores in Great Plains conservation: comparative ecology of bison and cattle. *Ecosphere, 2*(3), 1-17. DOI: [10.1890/ES10-00152.1](https://doi.org/10.1890/ES10-00152.1).
  + Allred, B. W., Fuhlendorf, S. D., Engle, D. M., & Elmore, R. D. (2011). Ungulate preference for burned patches reveals strength of fire–grazing interaction. *Ecology and Evolution, 1*(2), 132-144. DOI: [10.1002/ece3.12](https://doi.org/10.1002/ece3.12).
  + Daniels, J., Stobbe, T., Espindola, A., Schneider, W. L., Fletcher, J., Ochoa-Corona, F. (2011). In silico simulation of massively parallel sequencing as a diagnostic tool for bacterial phytopathogens. *Phytopathology, 101*(6), S41.
@@ -191,7 +191,7 @@
  + Stobbe, A. H., Daniels, J., Espindola, A., Schneider, W. L., Fletcher, J., Melcher, U. K. (2011). Use of massively parallel sequencing as a diagnostic tool. *Phytopathology, 101*(6), S171-S172.
  + Struchtemeyer, C. G., Davis, J. P., & Elshahed, M. S. (2011). Influence of the drilling mud formulation process on the bacterial communities in thermogenic natural gas wells of the Barnett Shale. *Applied and Environmental Microbiology, 77*(14), 4744-4753. DOI: [10.1128/AEM.00233-11](https://doi.org/10.1128/AEM.00233-11).
 
-##Presentations
+## Presentations
  + Fernando, B.R., & DeSilva. U. (2011, January). *Phage biome of the bovine rumen.* Presented at the 2011 International Conference on the Status of Plant and Animal Genome Research, San Diego, CA.
  + Harris, A.J., & Xiang Q.Y. (2011, July). *The Bayes–DIVA method and its application for testing biogeographic origins of inter-continental disjunct endemics.* Presented at the 2011 International Botanical Congress, Melbourne, Australia.
  + Ku. H., & Zhu, L. (2011, August). *Bayesian Regression Analysis of Quantitative Trait with Correlated Phenotypic Data.* Presented at the 2011 Joint Statistical Meetings, Miami Beach, FL.
@@ -199,18 +199,18 @@
 
 #2010
 
-##Articles
+## Articles
  + Bukkapatnam, S. T., & Cheng, C. (2010). Forecasting the evolution of nonlinear and nonstationary systems using recurrence-based local Gaussian process models. *Physical Review E, 82*(5), 56206. DOI: [10.1103/PhysRevE.82.056206](https://doi.org/10.1103/PhysRevE.82.056206).
  + Liggenstoffer, A. S., Youssef, N. H., Couger, M. B., Elshahed, M.S. (2010). Phylogenetic diversity and community structure of anaerobic fungi (Phylum Neacallymastigales) in ruminant and non-ruminant herbivores. *ISME Journal, 4*(10), 1225-1235.
  + Youssef, N. H., Couger, M. B., & Elshahed, M. S. (2010). Fine-scale bacterial beta diversity within a complex ecosystem (Zodletone Spring, OK, USA): the role of the rare biosphere. *PLoS ONE, 5*(8), e12414. DOI: [10.1371/journal.pone.0012414](https://doi.org/10.1371/journal.pone.0012414).
 
 #2009
 
-##Articles
+## Articles
  + Harris, A. J., & XIANG, Q. Y. J. (2009). Estimating ancestral distributions of lineages with uncertain sister groups: a statistical approach to Dispersal–Vicariance Analysis and a case using Aesculus L.(Sapindaceae) including fossils. *Journal of Systematics and Evolution, 47*(5), 349-368. DOI: [10.1111/j.1759-6831.2009.00044.x](https://doi.org/10.1111/j.1759-6831.2009.00044.x).
  + Zhang, W., & Guo, Y. (2009). First-principles study of crystal structures of under pressure. *Solid State Communications, 149*(33), 1342-1346. DOI: [10.1016/j.ssc.2009.05.027](https://doi.org/10.1016/j.ssc.2009.05.027).
 
 #2008
 
-##Presentations
+## Presentations
  + Andreason, S., Schneider, W., Davis, R., & Wayadande, A. (2008, November). *E-probe diagnostic nucleic acid assay (EDNA) detection of Spiroplasma kunkelli in gray lawn leafhopper, Exitianus exitiosu, (Uhl.), transcriptome sequencing dataset.* Presented at the 2008 annual meeting of the Entomological Society of America, Minneapolis, MN.
