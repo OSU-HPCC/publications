@@ -50,17 +50,17 @@ def main():
         final_list.append("\n\n#" + year)
         # Articles
         if thatYearsPubs(year, articles):
-            final_list.append("\n\n##Articles")
+            final_list.append("\n\n## Articles")
             for pub in thatYearsPubs(year, articles):
                 final_list.append("\n + " + pub.cite())
         # NEUP Projects
         if thatYearsPubs(year, neups):
-            final_list.append("\n\n##NEUP Projects")
+            final_list.append("\n\n## NEUP Projects")
             for pub in thatYearsPubs(year, neups):
                 final_list.append("\n + " + pub.cite())
         # Presentations
         if thatYearsPubs(year, presentations):
-            final_list.append("\n\n##Presentations")
+            final_list.append("\n\n## Presentations")
             for pub in thatYearsPubs(year, presentations):
                 final_list.append("\n + " + pub.cite())
 
