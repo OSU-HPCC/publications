@@ -31,5 +31,15 @@ neups.sort(key = lambda x: x.authors)
 presentations.sort(key = lambda x: x.authors)
 
 # Get all years with publications
+years = []
 for pub in articles:
+    years.append(pub.year)
+for pub in neups:
+    years.append(pub.year)
+for pub in presentations:
+    years.append(pub.year)
 
+# Remove non-unique values
+years = list(set(years))
+years.sort(reverse = True)
+print(years)
