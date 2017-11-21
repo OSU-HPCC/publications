@@ -1,5 +1,10 @@
 
 
+# 2018
+
+## Articles
+ + Maulik, R., San, O. (2018). Explicit and Implicit LES Closures for Burgers Turbulence. *Journal of Computational and Applied Mathematics, 327*, 12-40. DOI: [10.1016/j.cam.2017.06.003](https://doi.org/10.1016/j.cam.2017.06.003).
+
 # 2017
 
 ## Articles
@@ -14,15 +19,23 @@
  + Chuba, D., Goyder, D., Chase, M. W., & Fishbein, M. (2017). Phylogenetics of the African Asclepias Complex (Apocynaceae) Based on Three Plastid DNA Regions. *Systematic Botany, 42*(1), 148-159. DOI: [10.1600/036364417X694539](https://doi.org/10.1600/036364417X694539).
  + Farag, I. F., Youssef, N. H., & Elshahed, M. S. (2017). Global distribution patterns and pangenomic diversity of the candidate phylum “Latescibacteria”(WS3). *Applied and Environmental Microbiology, 83*(10), e00521-17. DOI: [10.1128/AEM.00521-17](https://doi.org/10.1128/AEM.00521-17).
  + Feng, X., Castro, M. C., Linde, E., & Papeş, M. (2017). Armadillo Mapper: A Case Study of an Online Application to Update Estimates of Species’ Potential Distributions. *Tropical Conservation Science, 10*, 1.94E+15. DOI: [10.1177/1940082917724133](https://doi.org/10.1177/1940082917724133).
+ + Feng, X., Papes, M. (2017). Can Incomplete Knowledge of Species' Physiology Facilitate Ecological Niche Modelling? A Case Study with Virtual Species. *Diversity and Distributions, 23*(10), 1157-1168. DOI: [10.1111/ddi.12606](https://doi.org/10.1111/ddi.12606).
+ + Feng, Y., Zhao, J., Chen, X., Lin, J. (2017). An In Silico Subject-Variability Study of Upper Airway Morphological Influence on the Airflow Regime in a Tracheobronchial Tree. *Bioengineering, 4*(4), 90. DOI: [10.3390/bioengineering4040090](https://doi.org/10.3390/bioengineering4040090).
  + Frazier, A. E., Hemingway, B., Brasher, J. (2017). Land Surface Heterogeneity and Tornado Formation: A Comparison of Tornado Alley and Dixie Alley. *Journal of Climatology and Weather Forecasting, 5*(2), 203. DOI: [10.4172/2332-2594.1000203](https://doi.org/10.4172/2332-2594.1000203).
  + Harris, A. J., Dee, J., & Palmer, M. W. (2017). The effects of taxonomic rank on climatic calibrations: A test using extant floras of United States counties. *Review of Palaeobotany and Palynology., 244*, 316-324. DOI: [10.1016/j.revpalbo.2017.02.002](https://doi.org/10.1016/j.revpalbo.2017.02.002).
+ + Harris, A.J., Chen, P.T., Xu, X.W., Zhang, J.Q., Yang, X., Wen, J. (2017). A Molecular Phylogeny of Staphyleaceae: Implications for Generic Delimitation and Classical Biogeographic Disjunctions in the Family. *Journal of Systematics and Evolution, 55*(2), 124-141. DOI: [10.1111/jse.12236](https://doi.org/10.1111/jse.12236).
  + Hendershot, M. E., & Liang, Y. (2017). Estimating Judicial Accomplishment: Applying the Legislative Accomplishment Strategy to the Decisions of the Supreme Court. *Justice System Journal*, , 1-21. DOI: [10.1080/0098261X.2017.1296386](https://doi.org/10.1080/0098261X.2017.1296386).
+ + Maulik, R., San, O. (2017). Resolution and Energy Dissipation Charactersitics of Implicit LES and Explicit Filtering Models for Compressible Turbulence. *Fluids 2017, 2*(2), 14. DOI: [10.3390/fluids2020014](https://doi.org/10.3390/fluids2020014).
+ + Melstrom, R.T. (2017). Where to Drill? The Petroleum Industry's Response to an Endangered Species Listing. *Energy Economics, 66*, 320-327. DOI: [10.1016/j.eneco.2017.06.028](https://doi.org/10.1016/j.eneco.2017.06.028).
  + Moktan, H., & Zhou, D. H. (2017). Wing 1 of protein HOP2 is as important as helix 3 in DNA binding by MD simulation. *Journal of Biomolecular Structure and Dynamics, 0*(0), 1-14. DOI: [10.1080/07391102.2017.1333458](https://doi.org/10.1080/07391102.2017.1333458).
+ + Morrison, J.M., Baker, K.D., Zamor, R.M., Nikolai, S., Elshahed, M.S., Youssef, N.H. (2017). Spatiotemporal Analysis of Microbial Community Dynamics During Seasonal Stratification Events in a Freshwater Lake (Grand Lake, OK, USA). *PLUS ONE, 12*(5), e0177488. DOI: [10.1371/journal.pone.0177488](https://doi.org/10.1371/journal.pone.0177488).
+ + Morrison, J.M., Murphy, C.L., Baker, K., Zamor, R.M., Nikolai, S.J., Wilder, S., Elshahed, M.S., Youssef, N.H. (2017). Microbial Communities Mediating Algal Deteritus Turnover Under Anaerobic Conditions. *PeerJ, 5*, e2803. DOI: [10.7717/peerj.2803](https://doi.org/10.7717/peerj.2803).
  + Pajouh, F. M., Moradi, E., & Balasundaram, B. (2017). Detecting large risk-averse 2-clubs in graphs with random edge failures. *Annals of Operations Research, 249*(1-2), 55-73. DOI: [10.1007/s10479-016-2279-0](https://doi.org/10.1007/s10479-016-2279-0).
  + Passow, C. N., Brown, A. P., Arias‐Rodriquez, L., Yee, M. C., Sockell, A., Schartl, M., ... & Tobler, M. (2017). Complexities of gene expression patterns in natural populations of an extremophile fish (Poecilia mexicana, Poeciliidae). *Molecular Ecology, 26*(16), 4211-4225. DOI: [10.1111/mec.14198](https://doi.org/10.1111/mec.14198).
  + Passow, C. N., Henpita C., Shaw, J. H., Quackenbush, C. R., Warren, W. C., Schartl, M., Arias-Rodriguez, L., Kelley, J. L., Tobler, M. (2017). The roles of plasticity and evolutionary change in shaping gene expression variation in natural populations of extremophile fish. *Molecular Ecology, 1365*(294X). DOI: [10.1111/mec.14360](https://doi.org/10.1111/mec.14360).
  + Pleinert, M. O., von Zanthier, J., & Agarwal, G. S. (2017). Hyperradiance from collective behavior of coherently driven atoms. *Optica, 4*(7), 779-785. DOI: [10.1364/OPTICA.4.000779](https://doi.org/10.1364/OPTICA.4.000779).
  + Shah, J. K., Marin‐Rimoldi, E., Mullen, R. G., Keene, B. P., Khan, S., Paluch, A. S., ... & Maginn, E. J. (2017). Cassandra: An open source Monte Carlo package for molecular simulation. *Journal of Computational Chemistry., 38*(19), 1727-1739. DOI: [10.1002/jcc.24807](https://doi.org/10.1002/jcc.24807).
+ + Smith, P.M., Borunda, M.F. (2017). Torsional Potential Energy Surfaces of Dinitrobenzene Isomers. *Advances in Condensed Matter Physics, 2017*. DOI: [10.1155/2017/3296845](https://doi.org/10.1155/2017/3296845).
  + Wang, B., Yi, H., Xu, K., & Wang, Q. (2017). Prediction of the self-accelerating decomposition temperature of organic peroxides using QSPR models. *Journal of Thermal Analysis and Calorimetry, 128*(1), 399-406. DOI: [10.1007/s10973-016-5922-8](https://doi.org/10.1007/s10973-016-5922-8).
 
 # 2016
