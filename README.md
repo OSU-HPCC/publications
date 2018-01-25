@@ -1,4 +1,17 @@
-# publication
-Script for generating markdown list of publications which have used OSU HPCC. Provides version control and a way to generate a markdown list that can be ported to any content management system for the HPCC website. **Note:** The markdown file in this directory renders nicely on GitHub, but it is not the canonical list of publications. See the team folder in `publications`. The purpose of these files is to generate content quickly that can be posted to the website once the Google Docs list has been changed or updated. The Google Doc should be considered the official, up-to-date version. If it differs from the website, then use these scripts and update the website.
+# HPCC Publications
+A series of scripts that generates a list of publications for the HPCC website.
 
-Note to self: In the future it might be nice to make a gh-pages and link to it from the HPCC website. That would streamline the workflow.
+## Requirements
+- Linux environment that runs `make`.
+- Working Python 3 distribution installed in `/usr/bin/python3`
+- Working Bash installation installed in `/bin/bash`
+- Optional: If the user wants the final list in a `.docx` format instead of a markdown format, they need to have Pandoc installed.
+
+> For a non-standard installation of the above software, the user will need to update the script shebangs.
+
+## Usage
+1. To add new publications to the list open `articles.csv` in your favorite spreadsheet program and add a new row with the appropriate entries.
+2. Save the changes (make sure you overwrite `articles.csv` and maintain the csv format.
+3. Type `make pubs` into the command line.
+4. Hit enter.
+5. The scripts will create a (optionally two) new file called `pubs.md` (optionally `pubs.docx`) with the formatted list of publication arranged both alphabetically and by year.
