@@ -3,7 +3,9 @@
 # 2018
 
 ## Articles
+ + Kapoor U., Shah, J. K. (2018). Globular, Sponge-like to Layer-like Morphological Transition in 1-n-Alkyl-3-methylimidazolium Octylsulfate Ionic Liquid Homologous Series. *Journal of Physical Chemistry B, 122*(1), 213-228. DOI: [10.1021/acs.jpcb.7b08397](https://doi.org/10.1021/acs.jpcb.7b08397).
  + Maulik, R., San, O. (2018). Explicit and Implicit LES Closures for Burgers Turbulence. *Journal of Computational and Applied Mathematics, 327*, 12-40. DOI: [10.1016/j.cam.2017.06.003](https://doi.org/10.1016/j.cam.2017.06.003).
+ + Singh, K., Fennell, C. J., Coutsias, E., A., Latifi, R., Hartson, S., Weaver, J. D. (2018). Light Harvesting for Rapid and Selective Reactions: Click Chemistry with Strain-Loadable Alkenes. *Chem, 4*(1), 124-137. DOI: [10.1016/j.chempr.2017.11.007](https://doi.org/10.1016/j.chempr.2017.11.007).
 
 # 2017
 

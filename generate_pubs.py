@@ -8,8 +8,8 @@ def main():
             formatted list of citations for website.')
     parser.add_argument('--articles', type = str, required=True, \
             help = "Name of .csv file with journal articles.")
-    parser.add_argument('--neup', type = str, required=True, \
-            help = "Name of .csv file with NEUP projects.")
+    parser.add_argument('--tech', type = str, required=True, \
+            help = "Name of .csv file with technical reports.")
     parser.add_argument('--presentations', type = str, required=True, \
             help = "Name of .csv file with presentations.")
     parser.add_argument('--output', type = str, required=True, \
@@ -18,7 +18,7 @@ def main():
     # Read in file names
     args = parser.parse_args()
     article_csv = args.articles
-    neup_csv = args.neup
+    neup_csv = args.tech
     presentations_csv = args.presentations
     outfile_csv = args.output
 
@@ -54,9 +54,9 @@ def main():
             final_list.append("\n\n## Articles")
             for pub in thatYearsPubs(year, articles):
                 final_list.append("\n + " + pub.cite())
-        # NEUP Projects
+        # Technical Reports
         if thatYearsPubs(year, neups):
-            final_list.append("\n\n## NEUP Projects")
+            final_list.append("\n\n## Technical Reports")
             for pub in thatYearsPubs(year, neups):
                 final_list.append("\n + " + pub.cite())
         # Presentations
