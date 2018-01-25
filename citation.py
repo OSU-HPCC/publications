@@ -65,7 +65,7 @@ class Citation(object):
                 if self.doi != "":
                     cite_text.append(". DOI: [" + self.doi + \
                             "](https://doi.org/" + self.doi + ")")
-        # NEUP Project
+        # Technical Report
         if self.category == "neupProject":
             cite_text = [ self.authors, " (" + self.year + "). ", \
                     "*" + self.title + "*. ", self.universities ]
@@ -92,41 +92,41 @@ def getPubs(filename, pubType):
         if pubType == 'article':
             for row in readCSV:
                 # skip column headers
-                if row[0] == "citation":
+                if row[0] == "authors":
                     continue
-                pubs.append(Citation(authors = row[1], \
-                        year = row[2], \
-                        title = row[3], \
-                        journal = row[4], \
-                        volume = row[5], \
-                        issue = row[6], \
-                        start_page = row[7], \
-                        end_page = row[8], \
-                        doi = row[9], \
-                        category = row[10]))
+                pubs.append(Citation(authors = row[0], \
+                        year = row[1], \
+                        title = row[2], \
+                        journal = row[3], \
+                        volume = row[4], \
+                        issue = row[5], \
+                        start_page = row[6], \
+                        end_page = row[7], \
+                        doi = row[8], \
+                        category = row[9]))
         if pubType == 'neup_proj':
             for row in readCSV:
                 # skip column headers
-                if row[0] == "citation":
+                if row[0] == "authors":
                     continue
-                pubs.append(Citation(authors = row[1], \
-                        year = row[2], \
-                        title = row[3], \
-                        universities = row[4],
-                        doi = row[5], \
-                        arxiv = row[6], \
-                        category = row[7]))
+                pubs.append(Citation(authors = row[0], \
+                        year = row[1], \
+                        title = row[2], \
+                        universities = row[3],
+                        doi = row[4], \
+                        arxiv = row[5], \
+                        category = row[6]))
         if pubType == 'presentation':
             for row in readCSV:
                 # skip column headers
-                if row[0] == "citation":
+                if row[0] == "authors":
                     continue
-                pubs.append(Citation(authors = row[1], \
-                        year = row[2], \
-                        month = row[3], \
-                        title = row[4], \
-                        meeting = row[5], \
-                        city = row[6], \
-                        state = row[7], \
-                        category = row[8]))
+                pubs.append(Citation(authors = row[0], \
+                        year = row[1], \
+                        month = row[2], \
+                        title = row[3], \
+                        meeting = row[4], \
+                        city = row[5], \
+                        state = row[6], \
+                        category = row[7]))
     return pubs
