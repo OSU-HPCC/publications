@@ -6,8 +6,8 @@ pubs.md : articles.csv generate_pubs.py citation.py
 ## clean		: Remove generated files and start over.
 .PHONY : clean
 clean :
-	rm -f *.md
-	rm -f *.docx
+	rm -f pubs.md
+	rm -f pubs.docx
 
 .PHONY : help
 help : Makefile
