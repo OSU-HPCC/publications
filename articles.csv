@@ -13,7 +13,7 @@ authors,year,title,journal,volume,issue,start_page,end_page,doi,type
 "Passow, C. N., Brown, A. P., Arias‐Rodriquez, L., Yee, M. C., Sockell, A., Schartl, M., ... & Tobler, M.",2017,"Complexities of gene expression patterns in natural populations of an extremophile fish (Poecilia mexicana, Poeciliidae)",Molecular Ecology,26,16,4211,4225,10.1111/mec.14198,article
 "Pleinert, M. O., von Zanthier, J., & Agarwal, G. S.",2017,Hyperradiance from collective behavior of coherently driven atoms,Optica,4,7,779,785,10.1364/OPTICA.4.000779,article
 "Shah, J. K., Marin‐Rimoldi, E., Mullen, R. G., Keene, B. P., Khan, S., Paluch, A. S., ... & Maginn, E. J.",2017,Cassandra: An open source Monte Carlo package for molecular simulation,Journal of Computational Chemistry.,38,19,1727,1739,10.1002/jcc.24807,article
-"Feng, X., Castro, M. C., Linde, E., & Papeş, M.",2017,Armadillo Mapper: A Case Study of an Online Application to Update Estimates of Species’ Potential Distributions,Tropical Conservation Science,10,,1.94E+15,,10.1177/1940082917724133,article
+"Feng, X., Castro, M. C., Linde, E., & Papeş, M.",2017,Armadillo Mapper: A Case Study of an Online Application to Update Estimates of Species’ Potential Distributions,Tropical Conservation Science,10,,1940082917724133,,10.1177/1940082917724133,article
 "Alderman, P. D., & Stanfill, B.",2017,Quantifying model-structure-and parameter-driven uncertainties in spring wheat phenology prediction with Bayesian analysis,European Journal of Agronomy,88,,1,9,10.1016/j.eja.2016.09.016,article
 "Babu, K. S., Bajc, B., & Saad, S.",2016,New class of SO (10) models for flavor,Physical Review D,94,1,15030,,10.1103/PhysRevD.94.015030,article
 "Blagden, T., Schneider, W., Melcher, U., Daniels, J., & Fletcher, J.",2016,Adaptation and Validation of E-Probe Diagnostic Nucleic Acid Analysis for Detection of Escherichia coli O157: H7 in Metagenomic Data from Complex Food Matrices,Journal of Food Protection,79,4,574,581,10.4315/0362-028X.JFP-15-440,article
@@ -150,3 +150,4 @@ authors,year,title,journal,volume,issue,start_page,end_page,doi,type
 "Maulik, R., San, O.",2018,Explicit and Implicit LES Closures for Burgers Turbulence,Journal of Computational and Applied Mathematics,327,,12,40,10.1016/j.cam.2017.06.003,article
 "Singh, K., Fennell, C. J., Coutsias, E., A., Latifi, R., Hartson, S., Weaver, J. D.",2018,Light Harvesting for Rapid and Selective Reactions: Click Chemistry with Strain-Loadable Alkenes,Chem,4,1,124,137,10.1016/j.chempr.2017.11.007,article
 "Kapoor U., Shah, J. K.",2018,"Globular, Sponge-like to Layer-like Morphological Transition in 1-n-Alkyl-3-methylimidazolium Octylsulfate Ionic Liquid Homologous Series",Journal of Physical Chemistry B,122,1,213,228,10.1021/acs.jpcb.7b08397,article
+,,,,,,,,,:
