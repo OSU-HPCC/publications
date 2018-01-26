@@ -114,14 +114,14 @@ def main():
 # Check for errors in author field
 def check_authors(pub):
     result = False
+    # Insure nonempty
+    if pub.authors == "":
+        result = True
     # List of authors ending with a period
-    if pub.authors[-1] != ".":
+    elif pub.authors[-1] != ".":
         result = True
     # Check for elipses in the author list
     if "..." in pub.authors:
-        result = True
-    # Insure nonempty
-    if pub.authors == "":
         result = True
     return result
 
@@ -146,11 +146,11 @@ def check_year(pub):
 # Check for errors in title field
 def check_title(pub):
     result = False
-    # Insure title does not end with a period
-    if pub.title[-1] == ".":
-        result = True
     # Insure nonempty
     if pub.title == "":
+        result = True
+    # Insure title does not end with a period
+    elif pub.title[-1] == ".":
         result = True
     return result
 

@@ -79,7 +79,6 @@ class Citation(object):
                     self.state ]
         cite_text.append(".")
         cite_text = "".join(cite_text)
-
         return cite_text
 
 # Read csv file and create list of publications
