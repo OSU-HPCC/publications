@@ -4,7 +4,7 @@ pubs.md : articles.csv generate_pubs.py citation.py
 	./change_format.sh
 
 ## errors.md	: Check for errors in publication list
-errors.md : articles.csv
+errors.md : articles.csv error_check.py citation.py
 	./error_check.py --publist articles.csv
 
 ## clean		: Remove generated files and start over
