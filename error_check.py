@@ -240,7 +240,7 @@ def check_doi(pub):
     result = False
     # Ensure DOI is nonempty and follows the DOI format
     if pub.doi == "":
-        result = True
+        result = False
     elif pub.doi[:3] != "10.":
         result = True
     elif "/" not in pub.doi:
