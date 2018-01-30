@@ -197,6 +197,8 @@ def check_start_page(pub):
     # Insure starting page is empty or an integer
     if pub.start_page == "":
         result = False
+    elif pub.start_page[0] == "e":
+        result = False
     else:
         try:
             check_me = int(pub.start_page)
