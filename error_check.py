@@ -197,6 +197,7 @@ def check_start_page(pub):
     # Insure starting page is empty or an integer
     if pub.start_page == "":
         result = False
+    # Exception for e-publications
     elif pub.start_page[0] == "e":
         result = False
     # Exception for "Physics in Medicine and Biology"
@@ -217,6 +218,15 @@ def check_end_page(pub):
     result = False
     # Insure ending page is empty or an integer
     if pub.end_page == "":
+        result = False
+    # Exception for e-publications
+    elif pub.start_page[0] == "e":
+        result = False
+    # Exception for "Physics in Medicine and Biology"
+    elif pub.start_page[0] == "N":
+        result = False
+    # Exception for "Phytopathology"
+    elif pub.start_page[0] == "S":
         result = False
     else:
         try:
