@@ -202,6 +202,9 @@ def check_start_page(pub):
     # Exception for "Physics in Medicine and Biology"
     elif pub.start_page[0] == "N":
         result = False
+    # Exception for "Phytopathology"
+    elif pub.start_page[0] == "S":
+        result = False
     else:
         try:
             check_me = int(pub.start_page)
