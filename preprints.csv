@@ -1,8 +1,9 @@
-authors,year,title,arXiv,type
-"DiPasquale, M., Francisco, C. A., Mermin, J., & Schweig, J.",2016,Free and Non-free Multiplicities on the A_3 Arrangement,1609.00337,preprint
-"Pleinert, M., von Zanthier, J., & Agarwal, G. S.",2016,Quantum signatures of collective behavior of a coherently driven two atom system coupled to a single-mode of the electromagnetic field,1608.00137,preprint
-"Pourhabib, A.",2015,Empirical Similarity for Absent Data Generation in Imbalanced Classification,1508.01235,preprint
-"Farmanesh, B., & Pourhabib, A.",2015,Sparse Pseudo-input Local Kriging for Large Non-stationary Spatial Datasets with Exogenous Variables,1508.01248,preprint
-"Ghosh, A., Sarnak, P.",2017,Integral points on markoff type cubic surfaces,1706.06712v2,preprint
-"DiPasquale, M., Francisco, C. A., Mermin, J., Schweig, J., & Sosa, G.",2017,The Rees algebra of a two-Borel idea is Koszul,1706.07462,preprint
-"Mehdi, S., Pandzic, P., Vogan, D., Zierau, R.",2017,Dirac Index and associated cycles of Harish-Chandra modules,1712.04169v1,preprint
+authors,year,title,arXiv,doi,type
+"DiPasquale, M., Francisco, C. A., Mermin, J., & Schweig, J.",2016,Free and Non-free Multiplicities on the A_3 Arrangement,1609.00337,,preprint
+"Pleinert, M., von Zanthier, J., & Agarwal, G. S.",2016,Quantum signatures of collective behavior of a coherently driven two atom system coupled to a single-mode of the electromagnetic field,1608.00137,,preprint
+"Pourhabib, A.",2015,Empirical Similarity for Absent Data Generation in Imbalanced Classification,1508.01235,,preprint
+"Farmanesh, B., & Pourhabib, A.",2015,Sparse Pseudo-input Local Kriging for Large Non-stationary Spatial Datasets with Exogenous Variables,1508.01248,,preprint
+"Ghosh, A., Sarnak, P.",2017,Integral points on markoff type cubic surfaces,1706.06712v2,,preprint
+"DiPasquale, M., Francisco, C. A., Mermin, J., Schweig, J., & Sosa, G.",2017,The Rees algebra of a two-Borel idea is Koszul,1706.07462,,preprint
+"Mehdi, S., Pandzic, P., Vogan, D., Zierau, R.",2017,Dirac Index and associated cycles of Harish-Chandra modules,1712.04169v1,,preprint
+"Guruacharya, A.",2018,Panama: a tool for ion channel biophysics simulation,,10.1101/202051,preprint
