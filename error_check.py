@@ -206,6 +206,9 @@ def check_start_page(pub):
     # Exception for "Phytopathology"
     elif pub.start_page[0] == "S":
         result = False
+    # Exception for "PeerJ"
+    elif pub.start_page[1:3] == ":e":
+        result = False
     else:
         try:
             check_me = int(pub.start_page)
