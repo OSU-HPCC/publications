@@ -51,7 +51,7 @@ authors,year,title,journal,volume,issue,start_page,end_page,doi,type
 "Maulik, R., San, O.",2017,A novel dynamic framework for subgrid scale parametrization of mesoscale eddies in quasigeostrophic turbulent flows,Computers and Mathematics with Applications,74,3,420,445,10.1016/j.camwa.2017.04.016Get,article
 "Maulik, R., San, O.",2017,A stable and scale-aware dynamic modeling framework for subgrid-scale parameterizations of two-dimensional turbulence,Computers and Fluids,158,,11,38,10.1016/j.compfluid.2016.11.015,article
 "Maulik, R., San, O.",2017,Resolution and Energy Dissipation Charactersitics of Implicit LES and Explicit Filtering Models for Compressible Turbulence,Fluids 2017,2,2,14,,10.3390/fluids2020014,article
-"McDonnell, A.",2017,"PHYLOGENY AND EVOLUTION OF NEW WORLD MILKWEED VINES (APOCYNACEAE,GONOLOBINAE) AND THE RESURRECTION OF CHTHAMALIA",Dissertation,,,,,,article
+"McDonnell, A.",2017,"Phylogeny and Evolution of New World Milkweed Vines (Apocynaceae,Gonolobianae) and the Resurrection of Chthamalia",Dissertation,,,,,,article
 "Melstrom, R.T.",2017,Where to Drill? The Petroleum Industry's Response to an Endangered Species Listing,Energy Economics,66,,320,327,10.1016/j.eneco.2017.06.028,article
 "Miao, Z., Balasundaram, B.",2017,Approaches for finding cohesive subgroups in large-scale social networks via maximum k-plex detection,Networks,69,4,388,407,10.1002/net.21745,article
 "Moktan H., Zhou, D. H.",2017,Wing 1 of protein HOP2 is as important as helix 3 in DNA binding by MD simulation,Journal of Biomolecular Structure and Dynamics,,,1,14,10.1080/07391102.2017.1333458,article
@@ -251,3 +251,9 @@ Moktan H.,2017,Structure and Dynamics Studies of Membrane and Non-membrane Prote
 "Kibble, G.",2017,Experimental and computational investigation of the conformal vortex generator,Dissertation,,,,,,article
 "Feng, Y., Chen, X., Zhao, J.",2018,Create the Individualized Digital Twin for Noninvasive Precise Pulmonary Healthcare,Significances of Bioengineering and Biosciences,1,2,,,,article
 "Calkins, S. S., Elledge, N. C., Mueller, K. E., Marek, S. M., Couger, M. B., Elshahed, M. S., Youssef, N. H.",2018,Development of an RNA interference (RNAi) gene knockdown protocol in the anaerobic gut fungus Pecoramyces ruminantium strain C1A,PeerJ,,,6:e4276,,10.7717/peerj.4276,article
+"Brini, E., Fennel, C. J., Fernandez-Serra, M., Hribar-Lee, B., Luksic, M., Dill, K. A.",2017,How Water’s Properties Are Encoded in Its Molecular Structure and Energies,Chemical Reviews,117,19,12385,12414,10.1021/acs.chemrev.7b00259,article
+"Williamson, C. H., Hall, J. R., Fennell, C. J.",2017,Two-dimensional molecular simulations using rose potentials,Journal of Molecular Liquids,228,,11,18,doi.org/10.1016/j.molliq.2016.10.016,article
+"Williamson, C. H.",2017,Computational Studies of 2D Diffusion and Water Nucleation,Dissertation,,,,,,article
+"Francisco, C. A., Mermin, J., Schweig, J.",2017,Boij-Söderberg and Veronese decompositions,Journal of Commutative Algebra,9,3,367,386,10.1216/JCA-2017-9-3-367,article
+"Francisco, C. A., Mermin, J., Schweig, J.",2016,LCM lattices supporting pure resolutions,Proceedings of the American Mathematical Society,144,,2315,2325,10.1090/proc/12890,article
+"Akin, D., Belgin, M., Bouvet, T. A., Bright, N. C., Harrell, S., Haymore, B., Jennings, M., Knepper, R., LaPine, D., Liu, F. C., Maji, A., Neeman, H., Reynolds, R., Sherman, A. H., Showerman, M., Tillotson, J., Towns, J., Turner, G., Zimmerman, B.",2017,Linux Clusters Institute Workshops: Building the HPC and Research Computing Systems Professionals Workforce,Proceedings from the 2017 HPC Systems Professionals Workshop,,,,,10.1145/3155105.3155108,article
