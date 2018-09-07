@@ -62,9 +62,9 @@ class Citation(object):
                     cite_text.append(", " + self.start_page)
                 if self.end_page != "":
                     cite_text.append("-" + self.end_page)
-                if self.doi != "":
-                    cite_text.append(". DOI: [" + self.doi + \
-                            "](https://doi.org/" + self.doi + ")")
+            if self.doi != "":
+                cite_text.append(". DOI: [" + self.doi + \
+                        "](https://doi.org/" + self.doi + ")")
         # Technical Report
         if self.category == "neupProject":
             cite_text = [ self.authors, " (" + self.year + "). ", \
