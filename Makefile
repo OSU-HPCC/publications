@@ -1,18 +1,19 @@
-## pubs.md	: Create formatted list of publications
-pubs.md : articles.csv generate_pubs.py citation.py
-	./generate_pubs.py --articles articles.csv --output pubs.md
-	./change_format.sh
-
-## errors.md	: Check for errors in publication list
-errors.md : articles.csv error_check.py citation.py
-	./error_check.py --publist articles.csv
+## main.pdf       : Generate PDF file with publications
+main.pdf : pubs.bib *.tex
+	pdflatex main.tex
+	biber main
+	pdflatex main.tex
 
 ## clean		: Remove generated files and start over
 .PHONY : clean
 clean :
-	rm -f pubs.md
-	rm -f pubs.docx
-	rm -f errors.md
+	rm -f *.aux
+	rm -f *.bbl
+	rm -f *.bcf
+	rm -f *.blg
+	rm -f *.log
+	rm -f *.pdf
+	rm -f *.run.xml
 
 .PHONY : help
 help : Makefile
