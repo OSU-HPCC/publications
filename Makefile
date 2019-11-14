@@ -1,5 +1,5 @@
 ## main.pdf       : Generate PDF file with publications
-main.pdf : pubs.bib *.tex
+main.pdf : *.bib *.tex
 	pdflatex main.tex
 	biber main
 	pdflatex main.tex

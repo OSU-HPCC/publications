@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These are the files used for tracking and generating a formatted list of publications facilitated by OSU HPCC. Publications are stored in Bibtex format in `pubs.bib`. LaTeX is used to generate a document from `main.tex`.
+These are the files used for tracking and generating a formatted list of publications facilitated by OSU HPCC. Publications are stored in Bibtex format in yearly `.bib` files. LaTeX is used to generate a document from `main.tex`.
 
 ## Usage
 
@@ -10,7 +10,7 @@ These are the files used for tracking and generating a formatted list of publica
 You will need a Linux command-line environment with `make` and `pdflatex` installed. Run `make main.pdf` to generate the list of publications in PDF format. For more information run `make help`. Once the document is generated, the list can be pasted into the website content-mangagement system.
 
 ### Adding New Publications
-To add a new publication to the list, download the Bibtex entry from the publisher's website and copy it into `pubs.bib`. Add the line `\nocite{<Bibtex-Entry ID>}` to the appropriate year file.
+To add a new publication to the list, download the Bibtex entry from the publisher's website and copy it into the year `.bib` file. Add the line `\nocite{<Bibtex-Entry ID>}` to the appropriate year `.tex` file.
 
 #### Example
 If the Bibtex entry is as follows:
@@ -30,11 +30,11 @@ If the Bibtex entry is as follows:
 }
 ```
 
-Copy the entry to the Bibtex file. Add the line `\nocite{Feng_2018}` to `2018.tex`. Run `make main.pdf`.
+Copy the entry to the Bibtex file (`2018.bib`). Add the line `\nocite{Feng_2018}` to `2018.tex`. Run `make main.pdf`.
 
 ## Files
 
 1. `.gitignore` - Ignore extra files generating by compiling LaTeX source.
-2. Year files (any file with the naming convention `YYYY.tex`) - Each year contains a citation for every author from the publication database that published in that respective year.
+2. Year `.tex` files (any file with the naming convention `YYYY.tex`) - Each year contains a citation for every author from the publication database that published in that respective year.
 3. `main.tex` - The main LaTeX file. This file generates the document. Publications are grouped by year.
-4. `pubs.bib` - The publication database. Bibtex entries are used to keep track of publications facilitated by OSU HPCC.
+4. Year `.bib` files (any file with the naming convention `YYYY.bib`) - These are collectively the publication database. Bibtex entries are used to keep track of publications facilitated by OSU HPCC.
