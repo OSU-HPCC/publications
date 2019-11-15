@@ -4,6 +4,7 @@
 \usepackage{csquotes}
  
 \usepackage{biblatex}
+\addbibresource{2020.bib}
 \addbibresource{2019.bib}
 \addbibresource{2018.bib}
 \addbibresource{2017.bib}
@@ -21,6 +22,11 @@
 \begin{document}
 
 \maketitle
+
+\begin{refsection}
+\input{2020}
+\printbibliography[title={2020}]
+\end{refsection}
 
 \begin{refsection}
 \input{2019}
