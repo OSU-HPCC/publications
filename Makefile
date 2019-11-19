@@ -24,6 +24,7 @@ clean :
 	rm -f *.bcf
 	rm -f *.blg
 	rm -f *.log
+	rm -f *.out
 	rm -f *.pdf
 	rm -f *.run.xml
 
