@@ -15,6 +15,8 @@ main-apa.pdf : 20*.bib 20*.tex main-apa.tex
 	biber main-apa
 	pdflatex main-apa.tex
 
+#main-apa.html : 20*.bib 20*.tex main-apa.tex main-apa.pdf
+#	htlatex main-apa
 
 ## clean		: Remove generated files and start over
 .PHONY : clean
@@ -27,6 +29,7 @@ clean :
 	rm -f *.out
 	rm -f *.pdf
 	rm -f *.run.xml
+#	rm -f *.4ct *.4tc *.idv *.lg *.xref
 
 .PHONY : help
 help : Makefile
