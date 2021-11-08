@@ -10,6 +10,7 @@
 \inputencoding{utf8}
 
 \usepackage[style=apa]{biblatex}
+\addbibresource{2022.bib}
 \addbibresource{2021.bib}
 \addbibresource{2020.bib}
 \addbibresource{2019.bib}
@@ -31,6 +32,11 @@
 \begin{document}
 
 \maketitle
+
+\begin{refsection}
+\input{2022}
+\printbibliography[title={2022}]
+\end{refsection}
 
 \begin{refsection}
 \input{2021}
