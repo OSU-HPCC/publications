@@ -7,7 +7,7 @@ These are the files used for tracking and generating a formatted list of publica
 ## Usage
 
 ### Generating List for Website
-You will need a Linux command-line environment with `make` and `pdflatex` installed. Run `make` to generate the list of publications in PDF format. For more information run `make help`. Once the document is generated, the list can be pasted into the website content-mangagement system.
+You will need a Linux command-line environment with `make` and `xelatex` installed. Run `make` to generate the list of publications in PDF format. For more information run `make help`. Once the document is generated, the list can be pasted into the website content-mangagement system.
 
 ### Adding New Publications
 To add a new publication to the list, download the Bibtex entry from the publisher's website or from the DOI service (see `curl` option below) and copy it into the year `.bib` file. Make sure that the BibTeX entry ID (the string `Feng_2018` in the example) is unique.

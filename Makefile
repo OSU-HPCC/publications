@@ -6,14 +6,14 @@ all : main.pdf main-apa.pdf
 
 ## main.pdf       : Generate PDF file with publications
 main.pdf : 20*.bib 20*.tex main.tex
-	pdflatex main.tex
+	xelatex main.tex
 	biber main
-	pdflatex main.tex
+	xelatex main.tex
 
 main-apa.pdf : 20*.bib 20*.tex main-apa.tex
-	pdflatex main-apa.tex
+	xelatex main-apa.tex
 	biber main-apa
-	pdflatex main-apa.tex
+	xelatex main-apa.tex
 
 #main-apa.html : 20*.bib 20*.tex main-apa.tex main-apa.pdf
 #	htlatex main-apa
