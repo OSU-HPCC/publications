@@ -5,8 +5,10 @@
 Search for names of HPCC staff, grant numbers for the clusters, substrings of some of the suggested acknowledgement phrases (e.g. "OSU High Performance Computing"), and other likely phrases like "OSU HPCC" or "Cowboy Supercomputer".
 
 Grant numbers:
-    OAC-1126330 (Cowboy)
-    OAC-1531128 (Pete)
+- OAC-1126330 (Cowboy)
+- OAC-1531128 (Pete)
+- OAC-2216084 (Newly awarded system, not yet built or named)
+
 
 ## ShareOK
 

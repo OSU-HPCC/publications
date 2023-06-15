@@ -49,6 +49,8 @@ There is also at least one non-BibTeX option. This one will produce something li
 curl -LH "Accept: text/bibliography; charset=utf-8" https://doi.org/10.1016/j.jaerosci.2018.05.010
 ```
 
+More info on the similar options with the `Accept` header can be found at https://citation.crosscite.org/docs.html.
+
 ### Adding a new publication year
 
 Create `.bib` and `.tex` files for the year (e.g. 2019). (The `.tex` file only has to exist; its content will be managed automatically by the makefile.)
