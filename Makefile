@@ -25,15 +25,15 @@ main-apa.pdf : 20*.bib 20*.tex main-apa.tex
 
 ## main-html.html	: Generate HTML file with publications
 main-html.html : 20*.bib 20*.tex main-html.tex
-	htxelatex main-html
+	htxelatex main-html "xhtml, charset=utf-8" " -cunihtf -utf8"
 	biber main-html
-	htxelatex main-html
+	htxelatex main-html "xhtml, charset=utf-8" " -cunihtf -utf8"
 
 ## main-apa-html.html	: Generate HTML file with publications (APA format)
 main-apa-html.html : 20*.bib 20*.tex main-apa-html.tex
-	htxelatex main-apa-html
+	htxelatex main-apa-html "xhtml, charset=utf-8" " -cunihtf -utf8"
 	biber main-apa-html
-	htxelatex main-apa-html
+	htxelatex main-apa-html "xhtml, charset=utf-8" " -cunihtf -utf8"
 
 .PHONY : clean clean-intermediates clean-outputs
 ## clean		: Remove generated files and start over
